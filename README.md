@@ -11,9 +11,6 @@ The **Driver Monitoring Service** is a Node.js-based backend application designe
 - [API Endpoints](#api-endpoints)
 - [Rule Engine](#rule-engine)
 - [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
